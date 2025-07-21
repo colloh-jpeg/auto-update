@@ -1,0 +1,11 @@
+Version 2.1.2 - July 2025
+-------------------------------
+✔ Improved update system stability
+✔ Libraries auto-downloader integrated
+✔ Background script execution now hidden
+✔ FlatLaf look and feel added for update dialogs
+✔ Smarter version check prevents duplicate prompts
+
+Bug Fixes:
+- Resolved .exe renaming failure on update
+- Fixed app restart issue after update
