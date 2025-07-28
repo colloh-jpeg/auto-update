@@ -1,4 +1,1 @@
-jackson-core-2.9.9.jar
-procyon-decompiler-0.6.0.jar
-jakarta.activation-api-2.1.3.jar
-google-http-client-gson-1.46.3.jar
+
