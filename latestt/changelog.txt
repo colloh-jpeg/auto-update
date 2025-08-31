@@ -1,1 +1,17 @@
+Changelog
+
+Insight Application 
+========================
+
+Release date: 31St August 2025.
+
+Version 2.1.0.5.  
+----------------------------
+- Added Term 3 tables in Register Monitor.
+- Improved responsiveness of the Register Monitor.
+- Implemented auto-save for records entered in the Register Monitor.
+- Aligned Leaveout margins properly on A4 pages.
+- Adjusted and increased size and margins for better A4 printing layout.
+- Added a date & time picker for  the "Date in" and "Time in" text fields in the Leaveouts slips.
+
 
