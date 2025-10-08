@@ -1,0 +1,10 @@
+Insight Application 
+========================
+
+Release date: 8th October 2025.
+
+Version 2.1.1.  
+----------------------------
+-Fixed the check-in scrollbar issue
+
+Updates will role in more consistently and regularly once the system becomes a product of the school.
