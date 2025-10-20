@@ -1,0 +1,8 @@
+Insight Application 
+========================
+
+Release date: 20th October 2025.
+
+Version 2.1.1.0.5  
+----------------------------
+-Addressed the Window sizing issue
