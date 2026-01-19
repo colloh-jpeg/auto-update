@@ -1,0 +1,4 @@
+angus-mail-2.0.2.jar
+jakarta.activation-api-2.1.2.jar
+jakarta.mail-api-2.1.2.jar
+angus-activation-2.0.2.jar

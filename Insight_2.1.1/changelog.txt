@@ -1,0 +1,21 @@
+========================
+HAPPY NEW YEAR !!!!
+========================
+==============================================
+Wishing all users a successful and productive New Year!
+==============================================
+
+Insight Application 
+========================
+
+Release date: 19TH JANUARY 2026.
+
+Version 2.1.2  
+----------------------------
+Updated the system to ensure all records now reflect the new academic year.
+Fixed bugs related to the "Forgot Password" section.
+Updated the Class register monitor section.
+Changed the position of the log out option.
+Added a About/ Help Section.
+Improved the Homepage UI.
+Fixed the Window resizing issue.
